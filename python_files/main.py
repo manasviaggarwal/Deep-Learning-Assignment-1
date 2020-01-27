@@ -80,7 +80,7 @@ if __name__ == "__main__":
 	# xt=pd.read_csv(data).values
 
 
-	model2 = torch.load("../model/model2.pth")
+	model2 = torch.load("model/model2.pth")
 	model2.eval()
 
 	# xxt=[]
