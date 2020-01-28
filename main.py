@@ -50,7 +50,7 @@ if __name__ == "__main__":
 	xxt=[]
 	for i in xt:
 	    xxt.append(i[0])
-	file=open("software1.txt","w+")
+	file=open("Software1.txt","w+")
 	fizzbuzz=[]
 	for f in xxt:
 	    if (f%3==0 and f%5==0):
@@ -120,7 +120,7 @@ if __name__ == "__main__":
 	acc = 100*correct/tot
 	# print('Test Accuracy',acc)
 	j=0
-	f=open("software2.txt","w+")
+	f=open("Software2.txt","w+")
 	for i in pred:
 	    if i==0:
 	        f.write("%s\n" % "Fizz")
