@@ -1,4 +1,4 @@
-# DeepLearning assignment 1
+# Deep Learning assignment 1
 
 This is the first assignment of Deep Learning course 2020. In this assignment we deal with two parts:
 
